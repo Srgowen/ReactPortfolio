@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.91e1079f.css",
+    "main.js": "/ReactPortfolio/static/js/main.2eb1c3b1.js",
+    "static/media/Steven.jpg": "/ReactPortfolio/static/media/Steven.9cd92bf2ffe0da669c86.jpg",
+    "static/media/opnsense_lab_slides.pdf": "/ReactPortfolio/static/media/opnsense_lab_slides.de04770da45568fd52d6.pdf",
+    "static/media/website.png": "/ReactPortfolio/static/media/website.5503ececf1d60ad85a61.png",
+    "static/media/OpnsenseWazuh.png": "/ReactPortfolio/static/media/OpnsenseWazuh.31a2175f059264dda17c.png",
+    "static/media/cyber_sec_resume.pdf": "/ReactPortfolio/static/media/cyber_sec_resume.61c55dd771cf5b4f7a46.pdf",
+    "static/media/coverImage.png": "/ReactPortfolio/static/media/coverImage.b6508cb52b9264038a51.png",
+    "static/media/WorkDaySchedular.png": "/ReactPortfolio/static/media/WorkDaySchedular.c67bc3d42b0d57445274.png",
+    "static/media/penetrationTest.png": "/ReactPortfolio/static/media/penetrationTest.1e5b3561aaafd91398c0.png",
+    "static/media/penetrationTest2.png": "/ReactPortfolio/static/media/penetrationTest2.8ab1de41332063dfbc34.png",
+    "index.html": "/ReactPortfolio/index.html",
+    "main.91e1079f.css.map": "/ReactPortfolio/static/css/main.91e1079f.css.map",
+    "main.2eb1c3b1.js.map": "/ReactPortfolio/static/js/main.2eb1c3b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91e1079f.css",
+    "static/js/main.2eb1c3b1.js"
+  ]
+}
