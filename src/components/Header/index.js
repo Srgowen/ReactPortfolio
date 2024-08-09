@@ -9,7 +9,7 @@ function Header(props) {
       <section>
         <header className="flex-row px-1">
           <div>
-            <h1>Steven Owen</h1>
+            <h1></h1>
           </div>
           <div>
             <Nav
